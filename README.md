@@ -1,5 +1,5 @@
 [Last updated in Jan 2021]
-# Probability_Theory
+# Probability Theory
 A Quick Introduction to Probability Theory. This tutorial aims to refresh all most important concepts in probability theory with simple examples. Probability theory is the key foundation of statistics, econometrics and data science. Make you understand all the details in the example, use these examples as your references when encounter new problems.
 
 ## Prerequiste
